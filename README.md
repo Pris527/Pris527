@@ -32,8 +32,18 @@ GitHub Repo: https://github.com/Pris527/nypd-complaints-analysis
 
 Dashboard: https://public.tableau.com/app/profile/presca.evans/viz/NYPDComplaintsdata2/Dashboard22
 
-More case studies coming soon
-(including data quality & service accessibility insights in global delivery operations)
+
+**🏡 Inside Brisbane’s Airbnb Economy**  
+
+Understanding pricing strategy, occupancy behaviour, and revenue potential in Brisbane’s short-stay market.  
+
+**Tableau**  
+GitHub Repo: https://github.com/Pris527/Inside-Brisbane-Airbnb-Economy  
+
+Dashboard: https://public.tableau.com/app/profile/presca.evans/viz/AirbnbBrisbanedataset/Dashboard1  
+
+
+More case studies coming soon (including data quality & service accessibility insights in global delivery operations)  
 
 
 **🛠 Technical Strengths**
