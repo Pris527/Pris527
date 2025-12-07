@@ -43,7 +43,15 @@ GitHub Repo: https://github.com/Pris527/Inside-Brisbane-Airbnb-Economy
 Dashboard: https://public.tableau.com/app/profile/presca.evans/viz/AirbnbBrisbanedataset/Dashboard1  
 
 
-More case studies coming soon (including data quality & service accessibility insights in global delivery operations)  
+**🚚 Global Logistics & Sales Performance**
+
+Improving delivery reliability, profitability, and customer experience through operational analytics.
+
+SQL (BigQuery) · Tableau
+
+GitHub Repo: https://github.com/Pris527/Global-Logistics-and-Sales-Performance
+
+Dashboard: https://public.tableau.com/app/profile/presca.evans/viz/GlobalLogisticsandSalesPerformance/GlobalLogisticsDashboard
 
 
 **🛠 Technical Strengths**
