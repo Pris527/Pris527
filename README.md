@@ -84,4 +84,3 @@ Tools: SAP (exposure), Jira, GitHub, Microsoft 365
 I’m actively seeking **Data Analyst / Business Analyst / Change Analyst** roles in Queensland.
 
 📧 Email: presca.wanki@gmail.com
-📍 Brisbane availability from January 2026
