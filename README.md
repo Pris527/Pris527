@@ -6,8 +6,7 @@ I transform messy operational data into clear, actionable insights that improve 
 
 With a PhD in qualitative research and experience supporting digital operations across global teams, I bridge data intelligence and real-world workflow understanding — enabling smarter decisions in healthcare, logistics and public service environments.
 
-📍 Relocating to Brisbane, QLD — January
-✔ Full Working Rights in Australia | Open to Data Analyst / Business Analyst / Change & Insights roles
+📍 Full Working Rights in Australia | Open to Business Analyst / Data Analyst / Change & Insights roles
 
 
 **🔍 Featured Analytics Work**
