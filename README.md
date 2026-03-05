@@ -1,4 +1,4 @@
-**👋 Hi, I’m Dr. Presca Wanki**
+**👋 Hi, I’m  Presca Wanki**
 
 **Data & Insight Analyst | Service Operations | Human-Centred Analytics**
 
