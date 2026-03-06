@@ -73,5 +73,3 @@ I’m currently seeking **Reporting BA / Service Performance / Insights** opport
 📩 presca.wanki@gmail.com
 
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-link-here
--->
